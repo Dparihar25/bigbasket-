@@ -2,3 +2,8 @@ Ansible
 AWS
 Kubernates
 Teraform
+Linux
+Git and Git Hub
+Maven
+Docker
+Jenkins
