@@ -3,4 +3,5 @@ guava
 grapes
 oranges
 pineapple
-
+Strawberry
+chiku
